@@ -1,0 +1,151 @@
+﻿@model  SampleWeb.Models.StockItemViewModel
+
+ <div class="container body-content">
+            <div class="breadcrumb-line">
+                <ul class="breadcrumb">
+                    <li><a href="index.html"><i class="icon-home2 position-left"></i> Home</a></li>
+                    <li class="active">Dashboard</li>
+                </ul>
+
+                <ul class="breadcrumb-elements">
+                    <li><a href="#"><i class="icon-comment-discussion position-left"></i> Support</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="icon-gear position-left"></i>
+                            Settings
+                            <span class="caret"></span>
+                        </a>
+
+                        <ul class="dropdown-menu dropdown-menu-right">
+                            <li><a href="#"><i class="icon-user-lock"></i> Account security</a></li>
+                            <li><a href="#"><i class="icon-statistics"></i> Analytics</a></li>
+                            <li><a href="#"><i class="icon-accessibility"></i> Accessibility</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#"><i class="icon-gear"></i> All settings</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <a class="breadcrumb-elements-toggle"><i class="icon-menu-open"></i></a>
+            </div>
+            <div class="content">
+
+            </div>
+   </div>
+    <div class="col-md-8">
+        <div class="modal-body" id="mb">
+
+            <div class="row">
+
+                <div class="form-group col-md-6">
+                    <label>Code</label><span class="text-danger">*</span>
+                    @Html.TextBoxFor(m => m.tbItem.Code, new { type = "text", @class = "form-control", required = "required", id = "txtCode" })
+                </div>
+                <button type="button" class="btn btn-primary" id="" onclick="searchItem()"><span class="icon-add"></span> Search</button>
+            </div>
+
+            <div id="itemList"></div>
+        </div>
+
+    </div>
+
+
+ <div class="col-md-4" id="saleitemList"></div>
+      <div> 
+      <button type="button" class="btn btn-primary" id="" onclick="checkOutItems()"><span class="icon-add"></span> Check Out</button>
+     </div>
+    
+    @section scripts{
+        <script>
+            //$(function () {
+            //    $('#txtCode').on('keyup', function () {
+            //        if ($('#txtCode').val.length() > 3) {
+            //            searchItem();
+            //        }
+            //    });
+            //});
+
+            var textInput = document.getElementById('txtCode');
+            var timeout = null;
+            textInput.onkeyup = function (e) {
+                {
+                    if (textInput.value.length > 3)
+                        clearTimeout(timeout);
+                    timeout = setTimeout(function () {
+                        searchItem();
+                    }, 3000);
+                }
+            };
+
+            function searchItem() {
+                var code = $('#txtCode').val();
+                console.log(code);
+                $.ajax({
+                    cache: false,
+                    url: '@Url.Action("_ItemSearchForm", "Item")',
+                    data: {
+                        code: code,
+                        cinemaID : 0
+                    },
+
+                    beforeSend: function () {
+
+                    },
+                    success: function (result) {
+                        $('#itemList').empty().append(result);
+                    },
+                    complete: function () {
+                    }
+                });
+            }
+            function additem(e) {
+                var itemID = $(e).attr('data-itemID');
+                var itemGUID = $(e).attr('data-itemGUID');
+                console.log(itemGUID);
+                $('#saleitemList').append('<div id="div_' + itemID + '"><h3  id="item_' + itemID + '">' + itemID + '</h3> <input data-itemguid="' + itemGUID + '" name="items" id="txt_' + itemID + '"/>' + '<button type="button" onclick="deleteItem(' + itemID + ')">Delete</button></hr></div>');
+            }
+
+            function deleteItem(itemID)
+            {
+                $('#div_'+ itemID).remove();
+                console.log("Enter"+itemID);
+            }
+
+            function checkOutItems()
+            {
+                var listItem = document.getElementsByName('items');
+                var list = [];
+                for (var i = 0; i < listItem.length; i++)
+                {
+                    var ID = $(listItem[i]).attr('data-itemguid');
+                    console.log("checkoutID" +ID);
+                    var value = $(listItem[i]).val();
+                    list.push(ID +'|'+value);
+                }
+                console.log(list);
+                var data = list.toString();
+
+                $.ajax({
+                    cache: false,
+                    url: '@Url.Action("UpSertOrderDetail", "OrderDetail")',
+                    data: {
+                        items: data
+                    },
+
+                    beforeSend: function () {
+
+                    },
+                    success: function (result) {
+                        $('#itemList').empty().append(result);
+                    },
+                    complete: function () {
+                    }
+                });
+            }
+
+</script>
+
+}
+
+
+
+

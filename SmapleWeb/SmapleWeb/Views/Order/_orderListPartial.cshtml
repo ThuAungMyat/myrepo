@@ -1,0 +1,39 @@
+﻿@model List<SampleWeb.Models.tbOrder>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Voucher Code
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                Total Item Price
+            </th>
+            <th>
+               
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.VoucherCode
+                </td>
+                <td>
+                   @item.CreatedAt.ToString().Substring(0, 10)
+                </td>
+                <td>
+                   @item.TotalItemPrice.ToString().Substring(0, 7)
+                </td>
+                <td >
+                    <button class="btn btn-warning" data-voucherCode="@item.VoucherCode" onclick="viewOrderDetail(this)">View</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

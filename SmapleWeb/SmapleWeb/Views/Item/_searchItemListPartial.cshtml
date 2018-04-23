@@ -1,0 +1,46 @@
+﻿@model List<SampleWeb.Models.StockItemViewModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Item
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Item Stock
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                   @item.tbItem.Item
+                </td>
+                <td>
+                    @item.tbItem.Description
+                </td>
+                <td>
+                    @item.tbStock.StockQty
+                </td>
+                <td>
+                    @if(@item.tbStock.StockQty == 0)
+                    {
+                       <label>Out of stock</label> 
+                    }
+                    else
+                    {
+                    <button id="btnAdd" class="btn btn-warning" data-itemID="@item.tbItem.ID" data-itemGUID="@item.tbItem.UniqueID" onclick="additem(this)">Add</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

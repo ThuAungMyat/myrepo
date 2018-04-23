@@ -1,0 +1,18 @@
+﻿
+
+
+@model IEnumerable<SampleWeb.Models.tbStock>
+
+@foreach (var item in Model)
+{
+    <h1>@item.FlowType</h1>
+    <h2>@item.Qty</h2>
+    <h3>@item.ItemPrice</h3>
+    <h4>@item.TotalItemPrice</h4>
+ 
+    @item.ID
+
+    <button class="btn btn-warning" data-albumID="@item.ID" onclick="EditForm(this)">Edit</button>
+    <hr />
+
+}

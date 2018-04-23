@@ -1,0 +1,53 @@
+﻿
+<h2>Order List</h2>
+
+<div class="container body-content">
+  
+</div>
+<div id="orderList">
+
+</div>
+<div id="orderDetailList">
+
+</div>
+@section scripts{
+    <script type="text/javascript">
+        $(function () {
+        $.ajax({
+            cache: false,
+            url: '@Url.Action("_orderListPartialByCinemaId", "Order")',
+
+            data: { cinemaID: 1 },
+
+            beforeSend: function () {
+
+            },
+            success: function (result) {
+                $('#orderList').empty().append(result);
+            },
+            complete: function () {
+            }
+        });
+        });
+        function viewOrderDetail(e) {
+            var voucherCode = $(e).attr('data-voucherCode');
+
+            $.ajax({
+                cache: false,
+                url: '@Url.Action("_orderDetailListPartialByVoucherCode", "OrderDetail")',
+
+                data: { voucherCode: voucherCode },
+
+                beforeSend: function () {
+
+                },
+                success: function (result) {
+                    $('#orderDetailList').empty().append(result);
+                },
+                complete: function () {
+                }
+            });
+        }
+
+    </script>
+}

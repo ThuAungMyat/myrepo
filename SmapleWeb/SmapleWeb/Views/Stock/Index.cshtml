@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index  @ViewBag.sampleData <button class="btn btn-success" onclick="addStock()">Add New</button></h2>
+
+
+
+<div id="stockList"></div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal-label" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div id="Stock">
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script type="text/javascript">
+        $(function () {
+            bindList();
+        });
+
+        function addStock() {
+            StockForm("Add", 0)
+        }
+        function EditForm(e) {
+            var ID = $(e).attr('data-stockID');
+            StockForm("Edit", ID)
+            console.log(ID)
+        }
+
+        function StockForm(FormType, ID) {
+                $.ajax({
+                    cache: false,
+                    url: '@Url.Action("_StockForm", "Stock")',
+                    data: { FormType: FormType, ID: ID },
+                    beforeSend: function () {
+
+                    },
+                    success: function (myData) {
+                        $('#Stock').empty().append(myData);
+                    },
+                    complete: function () {
+                        $('#myModal').modal('show');
+
+                        $('#StockForm').submit(function (e) {
+                            e.preventDefault();
+                            $.ajax({
+                                cache: false,
+                                url: '@Url.Action("UpSertStock", "Stock")',
+                                type: "Post",
+                                data: $(this).serialize(),
+                                beforeSend: function () {
+                                    $('.btn').prop("disabled", true);
+                                },
+                                success: function (myData) {
+                                    bindList();
+                                    $('#myModal').modal('hide');
+                                },
+                                complete: function () {
+                                    $('.btn').prop("disabled", false);
+                                }
+                            });
+                        });
+                    }
+                });
+        }
+
+     
+        function bindList() {
+               $.ajax({
+                    cache: false,
+                    url: '@Url.Action("_stockListPartial", "Stock")',
+
+                    beforeSend: function () {
+
+                    },
+                    success: function (result) {
+                        $('#stockList').empty().append(result);
+                    },
+                    complete: function () {
+                    }
+            });
+        }
+
+
+
+    </script>
+
+
+}

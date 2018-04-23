@@ -1,0 +1,46 @@
+﻿
+@model List<SampleWeb.Models.tbOrderDetail>
+<h3>Order Detail List</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Voucher Code
+            </th>
+            <th>
+                Item Name
+            </th>
+            <th>
+                Item Price
+            </th>
+            <th>
+                Item Quantity
+            </th>
+            <th>
+                Total Price
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.VoucherCode
+                </td>
+                <td>
+                    @item.ItemName
+                </td>
+                <td>
+                    @item.ItemPrice.ToString().Substring(0, 7)
+                </td>
+                <td>
+                    @item.ItemQty
+                </td>
+                <td>
+                    @item.TotalPrice
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

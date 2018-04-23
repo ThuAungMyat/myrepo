@@ -1,0 +1,13 @@
+﻿@model IEnumerable<SampleWeb.Entities.Artist> 
+
+
+
+@foreach(var item in Model)
+{
+    <h4>@item.Name</h4>
+    <h5>@item.Age</h5>
+
+    <button class="btn btn-warning" data-artistID="@item.ID" onclick="EditForm(this)">Edit</button>
+    <hr />
+
+}

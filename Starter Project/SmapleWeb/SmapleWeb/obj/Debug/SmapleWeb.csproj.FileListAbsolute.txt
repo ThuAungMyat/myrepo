@@ -1,0 +1,158 @@
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\ApplicationInsights.config
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\csc.exe
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\csc.exe.config
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\csc.rsp
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\csi.exe
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\csi.rsp
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\System.AppContext.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\vbc.exe
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\vbc.exe.config
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\vbc.rsp
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\VBCSCompiler.exe
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\SmapleWeb.dll.config
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\SmapleWeb.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\SmapleWeb.pdb
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Antlr3.Runtime.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.Web.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.Owin.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.Owin.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Newtonsoft.Json.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Owin.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Net.Http.Extensions.Compression.Core.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Net.Http.Formatting.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Helpers.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Http.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Http.Owin.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Mvc.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Optimization.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Razor.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Razor.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\WebGrease.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.Owin.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Net.Http.Formatting.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Http.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Http.Owin.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Helpers.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Mvc.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Optimization.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.Razor.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Razor.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Antlr3.Runtime.pdb
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Newtonsoft.Json.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.ApplicationInsights.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\bin\Microsoft.AI.Web.xml
+D:\Sample Projects\SmapleWeb\SmapleWeb\obj\Debug\SmapleWeb.csprojResolveAssemblyReference.cache
+D:\Sample Projects\SmapleWeb\SmapleWeb\obj\Debug\SmapleWeb.dll
+D:\Sample Projects\SmapleWeb\SmapleWeb\obj\Debug\SmapleWeb.pdb
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\ApplicationInsights.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\csc.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\csc.exe.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\csc.rsp
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\csi.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\csi.rsp
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\vbc.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\vbc.exe.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\vbc.rsp
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\SmapleWeb.dll.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\SmapleWeb.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\SmapleWeb.pdb
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Antlr3.Runtime.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.Owin.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.Owin.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Newtonsoft.Json.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Owin.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Helpers.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Http.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Http.Owin.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Mvc.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Optimization.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Razor.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\WebGrease.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.Owin.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Http.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Http.Owin.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Helpers.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Mvc.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Optimization.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.Razor.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Newtonsoft.Json.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\obj\Debug\SmapleWeb.csprojResolveAssemblyReference.cache
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\obj\Debug\SmapleWeb.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SmapleWeb\SmapleWeb\obj\Debug\SmapleWeb.pdb

@@ -1,0 +1,154 @@
+D:\Sample Projects\SampleApi\SampleApi\obj\Debug\SampleApi.csprojResolveAssemblyReference.cache
+D:\Sample Projects\SampleApi\SampleApi\bin\ApplicationInsights.config
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\csc.exe
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\csc.exe.config
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\csc.rsp
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\csi.exe
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\csi.rsp
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\System.AppContext.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\vbc.exe
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\vbc.exe.config
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\vbc.rsp
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\VBCSCompiler.exe
+D:\Sample Projects\SampleApi\SampleApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Sample Projects\SampleApi\SampleApi\bin\SampleApi.dll.config
+D:\Sample Projects\SampleApi\SampleApi\bin\SampleApi.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\SampleApi.pdb
+D:\Sample Projects\SampleApi\SampleApi\bin\Antlr3.Runtime.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\EntityFramework.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\EntityFramework.SqlServer.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.Web.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.ApplicationInsights.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\Newtonsoft.Json.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Net.Http.Formatting.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Helpers.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Http.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Http.WebHost.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Mvc.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Optimization.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Razor.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.WebPages.Deployment.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.WebPages.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.WebPages.Razor.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\WebGrease.dll
+D:\Sample Projects\SampleApi\SampleApi\bin\EntityFramework.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\EntityFramework.SqlServer.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\Newtonsoft.Json.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Net.Http.Formatting.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Helpers.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Http.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Http.WebHost.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Mvc.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Optimization.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.Razor.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.WebPages.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.WebPages.Deployment.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\System.Web.WebPages.Razor.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\Antlr3.Runtime.pdb
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.ApplicationInsights.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Sample Projects\SampleApi\SampleApi\bin\Microsoft.AI.Web.xml
+D:\Sample Projects\SampleApi\SampleApi\obj\Debug\SampleApi.dll
+D:\Sample Projects\SampleApi\SampleApi\obj\Debug\SampleApi.pdb
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\ApplicationInsights.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\csc.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\csc.exe.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\csc.rsp
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\csi.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\csi.rsp
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\System.AppContext.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\vbc.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\vbc.exe.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\vbc.rsp
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\SampleApi.dll.config
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\SampleApi.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\SampleApi.pdb
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Antlr3.Runtime.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\EntityFramework.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.Web.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Newtonsoft.Json.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Helpers.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Http.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Mvc.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Optimization.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Razor.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.WebPages.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\WebGrease.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\EntityFramework.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Newtonsoft.Json.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Helpers.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Http.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Mvc.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Optimization.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.Razor.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.WebPages.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Antlr3.Runtime.pdb
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\bin\Microsoft.AI.Web.xml
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\obj\Debug\SampleApi.csprojResolveAssemblyReference.cache
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\obj\Debug\SampleApi.dll
+C:\Users\Aung Myat Thu\Desktop\Starter Project\SampleApi\SampleApi\obj\Debug\SampleApi.pdb
